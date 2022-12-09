@@ -4,4 +4,4 @@
 联系我：135624461@qq.com
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
-![](https://img.shields.io/badge/fahaozhao)
+<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/fahaozhao/fahaozhao">
