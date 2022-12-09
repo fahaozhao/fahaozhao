@@ -3,5 +3,5 @@
 🌱我目前正在学习运维方面的知识
 联系我：135624461@qq.com
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
-<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/fahaozhao/fahaozhao">
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahaozhao)
+
