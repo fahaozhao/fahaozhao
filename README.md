@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @fahaozhao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fahaozhao/fahaozhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋大家好，我是赵发濠
+👀我感兴趣的是云计算，网络安全
+🌱我目前正在学习运维方面的知识
+📫联系我：135624461@qq.com
